@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latest Articles</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #000; color: #fff; text-align: center; margin: 0; padding: 20px; }
+        .container { max-width: 500px; margin: auto; }
+        .post { margin-bottom: 25px; cursor: pointer; border: 1px solid #333; border-radius: 10px; overflow: hidden; background: #111; }
+        .post img { width: 100%; display: block; }
+        .post-title { padding: 15px; font-size: 18px; font-weight: bold; }
+        a { text-decoration: none; color: inherit; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2>Recommended for You</h2>
+
+        <!-- Post 1 -->
+        <a href="https://info.nobbe.site/cashback-vs-reward-points-which-is-better-for-your-wallet/">
+            <div class="post">
+                <img src="https://desithots4.com/wp-content/uploads/2026/04/image-33-1-1-640x360.jpg" alt="Post 1">
+                <div class="post-title">Click here to read full article</div>
+            </div>
+        </a>
+
+        <!-- Post 2 -->
+        <a href="https://info.nobbe.site/best-rupay-credit-cards-for-upi-payments/">
+            <div class="post">
+                <img src="https://desithots4.com/wp-content/uploads/2026/03/image-15-640x360.jpg" alt="Post 2">
+                <div class="post-title">Click here to read more</div>
+            </div>
+        </a>
+    </div>
+
+</body>
+</html>
